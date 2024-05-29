@@ -1,0 +1,12 @@
+load ../HHO-Lapl-OM-master/matlab_meshes/mesh1_1.mat
+mesh= mesh1_1.mat, h= 2.50e-01, time step= 6.25e-02 
+Mesh 1, num_time_steps=16, Avg_iter=26 with Avg_residue=5.28e-06 in 0.057855 seconds
+Mesh 1. Errors: L^(2)=2.60e-02, L^2 on zeta(u):4.03e-02, H1 on zeta(u):8.32e-02
+Errors in L^(2) and orders of convergence:
+	2.60e-02
+
+Errors in L^2 on zeta(u) and orders of convergence:
+	4.03e-02
+
+Errors in H1 on zeta(u) and orders of convergence:
+	8.32e-02
